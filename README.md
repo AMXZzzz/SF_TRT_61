@@ -3,3 +3,5 @@
 ## 此代码库仅做代码开源，不做项目开源，即不提供编译文件以及lib
 
 ## [Bilibili:随风而息](https://space.bilibili.com/120366874)
+
+## [python-dll教程](https://www.bilibili.com/video/BV1Pe4y1p7Ds/?share_source=copy_web&vd_source=1ab4c859f1ebd918903f472636409e44)
